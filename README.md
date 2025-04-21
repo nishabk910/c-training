@@ -1,1 +1,2 @@
-# c-training
+# cpptraining
+this repo contains cpp source codes 
